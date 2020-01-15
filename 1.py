@@ -4,7 +4,7 @@
 import codecs
 a=0
 #b="KAV.20.0.14.1085g_01.14_20.26_9576.SRV.log"
-b="KAV.20.0.14.1085g_01.14_21.08_7484.SRV.log"
+b="KAV.20.0.14.1085g_01.15_18.57_4728.SRV.log"
 
 print ("    Trace parcer 1.0")
 #print ("---")
