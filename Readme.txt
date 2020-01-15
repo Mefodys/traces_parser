@@ -1,1 +1,1 @@
-traces files parcer scripts
+trace files parcer scripts
